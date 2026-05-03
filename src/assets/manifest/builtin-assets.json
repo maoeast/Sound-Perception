@@ -1,0 +1,310 @@
+[
+  {
+    "id": "animal-cat-01",
+    "category": "animals",
+    "title": "小猫",
+    "image": "builtin/animals/cat.png",
+    "audio": "builtin/animals/cat.wav"
+  },
+  {
+    "id": "animal-dog-01",
+    "category": "animals",
+    "title": "小狗",
+    "image": "builtin/animals/dog.png",
+    "audio": "builtin/animals/dog.wav"
+  },
+  {
+    "id": "animal-cow-01",
+    "category": "animals",
+    "title": "牛",
+    "image": "builtin/animals/cow.png",
+    "audio": "builtin/animals/cow.wav"
+  },
+  {
+    "id": "animal-sheep-01",
+    "category": "animals",
+    "title": "羊",
+    "image": "builtin/animals/sheep.png",
+    "audio": "builtin/animals/sheep.wav"
+  },
+  {
+    "id": "animal-duck-01",
+    "category": "animals",
+    "title": "鸭子",
+    "image": "builtin/animals/duck.png",
+    "audio": "builtin/animals/duck.wav"
+  },
+  {
+    "id": "animal-frog-01",
+    "category": "animals",
+    "title": "青蛙",
+    "image": "builtin/animals/frog.png",
+    "audio": "builtin/animals/frog.wav"
+  },
+  {
+    "id": "animal-bird-01",
+    "category": "animals",
+    "title": "小鸟",
+    "image": "builtin/animals/bird.png",
+    "audio": "builtin/animals/bird.wav"
+  },
+  {
+    "id": "animal-penguin-01",
+    "category": "animals",
+    "title": "企鹅",
+    "image": "builtin/animals/penguin.png",
+    "audio": "builtin/animals/penguin.wav"
+  },
+  {
+    "id": "nature-rain-01",
+    "category": "nature",
+    "title": "下雨",
+    "image": "builtin/nature/rain.png",
+    "audio": "builtin/nature/rain.wav"
+  },
+  {
+    "id": "nature-wind-01",
+    "category": "nature",
+    "title": "刮风",
+    "image": "builtin/nature/wind.png",
+    "audio": "builtin/nature/wind.wav"
+  },
+  {
+    "id": "nature-flowing-water-01",
+    "category": "nature",
+    "title": "流水",
+    "image": "builtin/nature/flowing-water.png",
+    "audio": "builtin/nature/flowing-water.wav"
+  },
+  {
+    "id": "nature-ocean-waves-01",
+    "category": "nature",
+    "title": "海浪",
+    "image": "builtin/nature/ocean-waves.png",
+    "audio": "builtin/nature/ocean-waves.wav"
+  },
+  {
+    "id": "nature-thunder-01",
+    "category": "nature",
+    "title": "雷电",
+    "image": "builtin/nature/thunder.png",
+    "audio": "builtin/nature/thunder.wav"
+  },
+  {
+    "id": "nature-campfire-01",
+    "category": "nature",
+    "title": "篝火",
+    "image": "builtin/nature/campfire.png",
+    "audio": "builtin/nature/campfire.wav"
+  },
+  {
+    "id": "nature-cicada-01",
+    "category": "nature",
+    "title": "蝉鸣",
+    "image": "builtin/nature/cicada.png",
+    "audio": "builtin/nature/cicada.wav"
+  },
+  {
+    "id": "nature-tornado-01",
+    "category": "nature",
+    "title": "龙卷风",
+    "image": "builtin/nature/tornado.png",
+    "audio": "builtin/nature/tornado.wav"
+  },
+  {
+    "id": "transport-bus-01",
+    "category": "transport",
+    "title": "公交车",
+    "image": "builtin/transport/bus.png",
+    "audio": "builtin/transport/bus.wav"
+  },
+  {
+    "id": "transport-car-01",
+    "category": "transport",
+    "title": "汽车",
+    "image": "builtin/transport/car.png",
+    "audio": "builtin/transport/car.wav"
+  },
+  {
+    "id": "transport-train-01",
+    "category": "transport",
+    "title": "火车",
+    "image": "builtin/transport/train.png",
+    "audio": "builtin/transport/train.wav"
+  },
+  {
+    "id": "transport-airplane-01",
+    "category": "transport",
+    "title": "飞机",
+    "image": "builtin/transport/airplane.png",
+    "audio": "builtin/transport/airplane.wav"
+  },
+  {
+    "id": "transport-bicycle-01",
+    "category": "transport",
+    "title": "自行车",
+    "image": "builtin/transport/bicycle.png",
+    "audio": "builtin/transport/bicycle.wav"
+  },
+  {
+    "id": "transport-ambulance-01",
+    "category": "transport",
+    "title": "救护车",
+    "image": "builtin/transport/ambulance.png",
+    "audio": "builtin/transport/ambulance.wav"
+  },
+  {
+    "id": "transport-tractor-01",
+    "category": "transport",
+    "title": "拖拉机",
+    "image": "builtin/transport/tractor.png",
+    "audio": "builtin/transport/tractor.wav"
+  },
+  {
+    "id": "transport-fire-truck-01",
+    "category": "transport",
+    "title": "消防车",
+    "image": "builtin/transport/fire-truck.png",
+    "audio": "builtin/transport/fire-truck.wav"
+  },
+  {
+    "id": "instrument-piano-01",
+    "category": "instruments",
+    "title": "钢琴",
+    "image": "builtin/instruments/piano.png",
+    "audio": "builtin/instruments/piano.wav"
+  },
+  {
+    "id": "instrument-drum-set-01",
+    "category": "instruments",
+    "title": "架子鼓",
+    "image": "builtin/instruments/drum-set.png",
+    "audio": "builtin/instruments/drum-set.wav"
+  },
+  {
+    "id": "instrument-guitar-01",
+    "category": "instruments",
+    "title": "吉他",
+    "image": "builtin/instruments/guitar.png",
+    "audio": "builtin/instruments/guitar.wav"
+  },
+  {
+    "id": "instrument-maraca-01",
+    "category": "instruments",
+    "title": "沙锤",
+    "image": "builtin/instruments/maraca.png",
+    "audio": "builtin/instruments/maraca.wav"
+  },
+  {
+    "id": "instrument-trumpet-01",
+    "category": "instruments",
+    "title": "小号",
+    "image": "builtin/instruments/trumpet.png",
+    "audio": "builtin/instruments/trumpet.wav"
+  },
+  {
+    "id": "instrument-triangle-01",
+    "category": "instruments",
+    "title": "三角铁",
+    "image": "builtin/instruments/triangle.png",
+    "audio": "builtin/instruments/triangle.wav"
+  },
+  {
+    "id": "instrument-guzheng-01",
+    "category": "instruments",
+    "title": "古筝",
+    "image": "builtin/instruments/guzheng.png",
+    "audio": "builtin/instruments/guzheng.wav"
+  },
+  {
+    "id": "instrument-dizi-01",
+    "category": "instruments",
+    "title": "笛子",
+    "image": "builtin/instruments/dizi.png",
+    "audio": "builtin/instruments/dizi.wav"
+  },
+  {
+    "id": "daily-doorbell-01",
+    "category": "daily_life",
+    "title": "门铃",
+    "image": "builtin/daily-life/doorbell.png",
+    "audio": "builtin/daily-life/doorbell.wav"
+  },
+  {
+    "id": "daily-flush-toilet-01",
+    "category": "daily_life",
+    "title": "冲马桶",
+    "image": "builtin/daily-life/flush-toilet.png",
+    "audio": "builtin/daily-life/flush-toilet.wav"
+  },
+  {
+    "id": "daily-brush-teeth-01",
+    "category": "daily_life",
+    "title": "刷牙",
+    "image": "builtin/daily-life/brush-teeth.png",
+    "audio": "builtin/daily-life/brush-teeth.wav"
+  },
+  {
+    "id": "daily-telephone-ring-01",
+    "category": "daily_life",
+    "title": "电话铃",
+    "image": "builtin/daily-life/telephone-ring.png",
+    "audio": "builtin/daily-life/telephone-ring.wav"
+  },
+  {
+    "id": "daily-water-into-cup-01",
+    "category": "daily_life",
+    "title": "水流进杯子",
+    "image": "builtin/daily-life/water-into-cup.png",
+    "audio": "builtin/daily-life/water-into-cup.wav"
+  },
+  {
+    "id": "daily-clock-ticking-01",
+    "category": "daily_life",
+    "title": "钟表滴答",
+    "image": "builtin/daily-life/clock-ticking.png",
+    "audio": "builtin/daily-life/clock-ticking.wav"
+  },
+  {
+    "id": "daily-chopping-food-01",
+    "category": "daily_life",
+    "title": "切菜",
+    "image": "builtin/daily-life/chopping-food.png",
+    "audio": "builtin/daily-life/chopping-food.wav"
+  },
+  {
+    "id": "daily-hair-dryer-01",
+    "category": "daily_life",
+    "title": "吹风机",
+    "image": "builtin/daily-life/hair-dryer.png",
+    "audio": "builtin/daily-life/hair-dryer.wav"
+  },
+  {
+    "id": "daily-fireworks-01",
+    "category": "daily_life",
+    "title": "烟花",
+    "image": "builtin/daily-life/fireworks.png",
+    "audio": "builtin/daily-life/fireworks.wav"
+  },
+  {
+    "id": "daily-iphone-01",
+    "category": "daily_life",
+    "title": "智能手机",
+    "image": "builtin/daily-life/iphone.png",
+    "audio": "builtin/daily-life/iphone.wav"
+  },
+  {
+    "id": "daily-high-speed-rail-station-01",
+    "category": "daily_life",
+    "title": "高铁站",
+    "image": "builtin/daily-life/high-speed-rail-station.png",
+    "audio": "builtin/daily-life/high-speed-rail-station.wav"
+  },
+  {
+    "id": "daily-school-playground-01",
+    "category": "daily_life",
+    "title": "学校操场",
+    "image": "builtin/daily-life/school-playground.png",
+    "audio": "builtin/daily-life/school-playground.wav"
+  }
+]

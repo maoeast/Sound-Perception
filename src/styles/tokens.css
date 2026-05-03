@@ -1,0 +1,34 @@
+:root {
+  color-scheme: light;
+
+  --font-ui: "Noto Sans SC", "Segoe UI", "PingFang SC", sans-serif;
+
+  --color-bg: #f4efe2;
+  --color-bg-soft: #fbf7ee;
+  --color-surface: #fffdf8;
+  --color-surface-strong: #ffffff;
+  --color-ink: #17212b;
+  --color-ink-soft: #4c5b6b;
+  --color-line: #d8dfeb;
+  --color-focus: #1e5fff;
+  --color-blue: #1877f2;
+  --color-blue-strong: #0f4fa8;
+  --color-orange: #f59e0b;
+  --color-orange-strong: #b35c00;
+  --color-white: #ffffff;
+
+  --shadow-panel: 0 24px 60px rgba(23, 33, 43, 0.12);
+  --shadow-tile: 0 18px 40px rgba(23, 33, 43, 0.14);
+
+  --radius-panel: 36px;
+  --radius-tile: 32px;
+  --radius-pill: 999px;
+
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4rem;
+}
