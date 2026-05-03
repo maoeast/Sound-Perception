@@ -18,6 +18,20 @@
 source ./scripts/use-node-env.sh
 ```
 
+如果要在这个目录里直接使用 Git，再额外启用一次 Git 环境：
+
+```bash
+source ./scripts/use-git-env.sh
+```
+
+启用后就可以正常执行：
+
+```bash
+git status
+git pull --rebase
+git push
+```
+
 启动前端开发服务器：
 
 ```bash
