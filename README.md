@@ -59,12 +59,6 @@ npm run build
 npm run tauri -- build
 ```
 
-运行单元测试：
-
-```bash
-npm run test
-```
-
 运行 Lint：
 
 ```bash

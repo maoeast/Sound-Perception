@@ -16,6 +16,7 @@ src-tauri/target/
 AIimages/
 .planning/
 .superpowers/
+config.json
 
 # Editor directories and files
 .vscode/*
